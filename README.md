@@ -50,3 +50,5 @@ Copier le dossier `tcai-canal/` dans `~/.claude/skills/`.
 
 Fusion de TCAI V1 ([repo source](https://github.com/Othman-Benbrahim/TCAI-transcommunication-algorithmique-intelligente)) et TCAI V2.
 Partie de l'écosystème [IRIS∞](https://github.com/Othman-Benbrahim).
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Othman-Benbrahim/tcai-canal)
